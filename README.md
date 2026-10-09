@@ -1,3 +1,3 @@
-### Random Repo
+# Material for ORBIT
 
-Just my learning repo, enjoy :3
+Just a learning repo, enjoy :3
